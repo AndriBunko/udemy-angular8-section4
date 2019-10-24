@@ -9,3 +9,5 @@ export class StyleDirective {
     this.r.setStyle(this.el.nativeElement, 'color', 'blue');
   }
 }
+
+
